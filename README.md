@@ -2,6 +2,12 @@
 
 A local data analytics and simulation project that explores how maintenance staffing, spare-parts inventory, and delivery delays affect a fictional vehicle fleet's operational readiness and cost.
 
+## Dashboard Preview
+
+![Vehicle Repair & Cost Simulator dashboard](dashboard-screenshot.png)
+
+*Interactive dashboard for comparing vehicle readiness, repair capacity, spare-parts inventory, and modeled operating cost across scenarios.*
+
 ## Business Problem
 
 A fictional operations manager needs to decide whether additional maintenance capacity or spare-parts inventory produces enough improvement in equipment availability to justify the added cost.
