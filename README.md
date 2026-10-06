@@ -70,6 +70,3 @@ The project includes tests for fleet conservation, crew limits, deterministic ru
 
 Python programming, SQL, relational databases, data analysis, simulation, scenario analysis, data visualization, testing, and translating operational questions into measurable business tradeoffs.
 
-## Important Note
-
-This project uses **fictional assumptions and synthetic simulation data**. No real operational, proprietary, or sensitive data is included.
